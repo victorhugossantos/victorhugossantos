@@ -25,4 +25,4 @@
 
 [![Linkedin](https://img.shields.io/badge/-victorhugossantos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorhugossantos/)](https://www.linkedin.com/in/victorhugossantos/)
 [![Gmail Badge](https://img.shields.io/badge/-victorhugossantos@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:victorhugossantos@gmail.com)](mailto:victorhugossantos)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/victorhugossantos)
+[![GitHub](https://img.shields.io/github/followers/victorhugossantos?label=follow&style=social)](https://github.com/victorhugossantos)
