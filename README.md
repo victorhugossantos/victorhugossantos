@@ -1,28 +1,33 @@
-## Sobre mim
+# 👋 Olá! Eu sou Victor Hugo
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando Analise e Desenvolvimento de Sistemas na Estácio.
-- 💼 Trabalhando como TI na Leste Telecom.
+Sou estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor web, apaixonado por criar aplicações interativas. Busco sempre aplicar as melhores práticas e soluções eficientes, com foco em tecnologias como React, Node.js e Python além de especial interesse em infraestrutura de TI e Segurança Digital
 
-## Minhas Skills
+## 🚀 Tecnologias que Eu Uso
 
-**Aplicações e dados**
+- **Frontend**: React, JavaScript, HTML, CSS
+- **Backend**: Node.js, Flask, Python, Java
+- **Banco de Dados**: MongoDB, MariaDB, PostgreSQL
+- **Ferramentas de Desenvolvimento**: Git, GitHub, Firebase
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+## 💼 Projetos Recentes
 
+### 🔔 Sistema Integrados - NEXUS
+Atualmente envolvido no desenvolvimento da ferramenta Nexus da empresa Leste Telecom, que tem por objetivo integrar todos os Sistemas de TI utilizado atualmente pela a mesma
+- Tecnologia utilizada: Flask, JavaScript e Sass
 
+## 📚 O Que Estou Estudando
 
-**Ferramentas de desenvolvimento**
+Atualmente, estou explorando:
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+- **Servidores Linux**: Buscando aprendizagem de como manter e realizar manutenções de servidores Linux
 
-![victorhugossantos's Stats](https://github-readme-stats.vercel.app/api?username=victorhugossantos&theme=radical&show_icons=true&hide_border=true&count_private=false)
+- **React e Node.js**: Estou sempre buscando novas técnicas e melhores práticas para criar aplicações que sejam escaláveis e mantenham um bom desempenho.
 
-## Onde me encontrar
+## 🌐 Como Me Encontrar
 
-[![Linkedin](https://img.shields.io/badge/-victorhugossantos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorhugossantos/)](https://www.linkedin.com/in/victorhugossantos/)
-[![Gmail Badge](https://img.shields.io/badge/-victorhugossantos@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:victorhugossantos@gmail.com)](mailto:victorhugossantos)
-[![GitHub](https://img.shields.io/github/followers/victorhugossantos?label=follow&style=social)](https://github.com/victorhugossantos)
+Sinta-se à vontade para se conectar comigo ou conferir alguns dos meus repositórios:
+
+- [LinkedIn](https://www.linkedin.com/in/victorhugossantos)
+- [GitHub](https://github.com/victorhugossantos)
+
+---
