@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Victor Hugo
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor web, apaixonado por criar aplicações interativas. Busco sempre aplicar as melhores práticas e soluções eficientes, com foco em tecnologias como React, Node.js e Python além de especial interesse em infraestrutura de TI e Segurança Digital
+Sou formando em Análise e Desenvolvimento de Sistemas, apaixonado por criar aplicações interativas. Busco sempre aplicar as melhores práticas e soluções eficientes, com foco em tecnologias como React, Node.js e Python além de especial interesse em infraestrutura de TI e Segurança Digital
 
 ## 🚀 Tecnologias que Eu Uso
 
