@@ -5,7 +5,7 @@ Sou formando em Análise e Desenvolvimento de Sistemas, apaixonado por criar apl
 ## 🚀 Tecnologias que Eu Uso
 
 - **Frontend**: React, JavaScript.
-- **Backend**: Node.js, Flask, Python, Java
+- **Backend**: Node.js, Flask, Python, Java, C#
 - **Banco de Dados**: MongoDB, MariaDB, PostgreSQL.
 - **Ferramentas de Desenvolvimento**: Git, VSCode.
 
